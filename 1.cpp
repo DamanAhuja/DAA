@@ -22,4 +22,4 @@ int main() {
     for (int num : arr) cout << num << " ";
     cout << "\nComparisons: " << comps << endl;
     return 0;
-}
+} 
